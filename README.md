@@ -55,12 +55,12 @@ A trusted-source used car price intelligence project built from data collection 
 
 | Project | Focus | What It Shows |
 | --- | --- | --- |
-| Used Car Price Intelligence Platform | Data Science, ML, Product Thinking | End-to-end data collection, EDA, modeling, validation, and API planning |
-| Movie Recommendation System | Machine Learning | Recommendation logic and similarity-based modeling |
-| HR Data Analysis Using Power BI | Business Intelligence | Dashboarding, HR metrics, and business reporting |
-| Text Analysis | NLP / Data Analysis | Text preprocessing and analytical workflows |
-| Flask Regex Matcher Web Application | Python Web App | Flask fundamentals and interactive app development |
-| Feynn Labs Internship | Applied Analytics | Internship/project-based business analytics work |
+| [Feynn Labs Internship](https://github.com/netthetlahrushikesh/Feynn_Labs-Internship) | Applied Analytics | Internship-based analysis, business problem framing, and practical data science workflows |
+| [Web Scraping and EDA Project](https://github.com/netthetlahrushikesh/webscraping-and-eda-project) | Web Scraping, EDA | Early data acquisition, cleaning, and exploratory analysis foundation |
+| [HR Data Analysis Using Power BI](https://github.com/netthetlahrushikesh/Hr-Data-Analysis-Using-Power-Bi) | Business Intelligence | Dashboarding, HR metrics, KPI tracking, and business reporting |
+| [Face Anti-Spoofing Authentication System](https://github.com/netthetlahrushikesh/Face-Anti-Spoofing-Authentication-System) | Python, Computer Vision | Authentication-focused ML workflow and security-oriented image analysis |
+| [Data Science Internship 2023](https://github.com/netthetlahrushikesh/Data_science_internship_2023) | Data Science Practice | Internship learning work covering Python, analysis, notebooks, and ML basics |
+| [Used Car Price Intelligence Platform](https://github.com/netthetlahrushikesh/Used-Car-Price-Intelligence-Platform) | Data Science, ML, Product Thinking | End-to-end trusted-data collection, EDA, modeling, validation, Kaggle packaging, and API planning |
 
 ---
 
@@ -80,4 +80,4 @@ I am currently extending my Used Car Price Intelligence Platform into a product 
 
 ```text
 Dataset -> EDA -> ML Model -> Model Artifact -> API -> Website
-<!--
+```
