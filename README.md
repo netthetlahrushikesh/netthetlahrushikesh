@@ -105,16 +105,6 @@ Trusted Sources -> Canonical Data -> Quality Gates -> EDA and Modeling
 - Document failed experiments, tradeoffs, and limitations alongside results.
 - Move validated models into typed, tested, deployable application boundaries.
 
-## Current Direction
-
-I am extending my work toward production-oriented AI and backend engineering:
-
-- model and data-drift monitoring
-- privacy-aware API telemetry and observability
-- scheduled data refresh and retraining gates
-- reliable AI/ML backend services
-- evaluation-driven intelligent applications
-
 I am open to opportunities and collaboration in AI engineering, Python backend
 development, machine learning engineering, and applied data products. The best
 way to reach me is through my repositories and GitHub profile.
